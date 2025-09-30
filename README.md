@@ -17,8 +17,9 @@
 ---
 
 ## Screenshots
+<img width="903" height="528" alt="ScreenShot-001" src="https://github.com/user-attachments/assets/111d0989-b57f-4df9-9c9f-6f6ce31a49fe" />
 
-*(Add screenshots here once UI is ready)*
+
 
 ---
 
