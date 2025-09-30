@@ -28,9 +28,9 @@
 1. Download the latest **alpha build** from the [releases page](#).
 2. Extract the `.zip` to your desired location.
 3. Make sure you have **Java 17+** installed.
-4. Run the launcher executable:
+4. Run the launcher bootstrap executable:
    ```bash
-   java -jar DragonLauncher.jar
+   java -jar DragonBootstrap.jar
    ```
 
 ---
